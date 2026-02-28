@@ -69,6 +69,3 @@ The backend leverages modern machine learning techniques to provide accurate pre
 
 ---
 
-## 🌐 Deployment
-
-This app is designed for easy deployment on **Streamlit Cloud**. See [deployment_guide.md](deployment_guide.md) for a detailed step-by-step guide.
