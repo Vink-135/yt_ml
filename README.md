@@ -1,5 +1,7 @@
 # YouTube Video Demand Predictor 🚀
 
+**Live Demo**: [youtubeprediction.streamlit.app](https://youtubeprediction.streamlit.app/)
+
 A machine learning-powered application designed to predict the demand for YouTube videos based on engagement metrics. This tool helps content creators and digital marketers optimize their content strategy by understanding potential audience reach.
 
 ![App Screenshot](app_screenshot.png)
