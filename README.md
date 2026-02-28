@@ -34,7 +34,7 @@ The project integrates several fundamental economic principles to analyze digita
 
 The backend leverages modern machine learning techniques to provide accurate predictions:
 
-- **Supervised Learning**: The model was trained on a labeled dataset of YouTube metrics where video performance was categorized into High/Low demand.
+- **Supervised Learning**: The model was trained on a labeled dataset of YouTube metrics where video performance was categorized into High/Low demand. The training data was sourced from the [YouTube Trending Videos Dataset](https://www.kaggle.com/datasets/thedevastator/youtube-trending-videos-dataset) on Kaggle.
 - **Classification Model**: A robust classification algorithm (implemented via `scikit-learn`) is used to draw a decision boundary between successful and unsuccessful videos.
 - **Feature Engineering**: 
     - **Engagement Rate**: A synthesized feature calculated as `(Likes + Comments - Dislikes) / (Likes + Comments + 1)`, which captures the sentiment of the audience.
